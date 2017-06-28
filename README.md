@@ -1,5 +1,3 @@
-# Funciones de colores en SASS
-
 ![screenshot](assets/img/desktop.png)
 
 ```javascript
